@@ -8,16 +8,16 @@
 	- Enable Training: True
 4. Create dataset and make sure it has the following folder structure:
 	- MyDataset (Dataset Folder)
-		o Training (Folder)
-			 Name1 (Folder) - Place photos from Name1 here in PNG format
-			 Name2 (Folder) - Place photos from Name1 here in PNG format
-			 Name3 (Folder) - Place photos from Name1 here in PNG format
-			 …
-		o Evaluation (Folder) 
-			 Name1 (Folder) - Place photos from Name1 here in PNG format
-			 Name2 (Folder) - Place photos from Name1 here in PNG format
-			 Name3 (Folder) - Place photos from Name1 here in PNG format
-			 …
+		- Training (Folder)
+			- Name1 (Folder) - Place photos from Name1 here in PNG format
+			- Name2 (Folder) - Place photos from Name1 here in PNG format
+			- Name3 (Folder) - Place photos from Name1 here in PNG format
+			- …
+		- Evaluation (Folder) 
+			- Name1 (Folder) - Place photos from Name1 here in PNG format
+			- Name2 (Folder) - Place photos from Name1 here in PNG format
+			- Name3 (Folder) - Place photos from Name1 here in PNG format
+			- …
 4. Create a new training pipeline with your dataset
 	- Make sure to select the Training folder in the input dataset field
 5. Create an ML Skill after the package has been trained
